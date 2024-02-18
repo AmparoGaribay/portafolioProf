@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    font-family: "Montserrat", sans-serif;
+    max-height: 100%;
+}
+
+nav{
+    background-color:#3587A4;
+    justify-content: center;
+
+}
+.navbar-nav a{
+    color:white;
+    font-family: "Courier Prime", monospace;
+}
+.navbar-brand strong{
+    color: white;
+}
+footer{
+    background-color: #88CCF1;
+}
+h5{
+    font-family: "Courier Prime", monospace;
+    font-size: 32px;
+}
+

@@ -1,0 +1,36 @@
+
+h5 {
+    padding-bottom: 15px;
+    margin-top: 25%;
+    color:white;
+}
+
+#btnsContactame a {
+    margin: 15px;
+    align-self: center;
+
+}
+
+.row{
+    justify-content: center;
+    height: 200px;
+}
+
+.row .col-6{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+div .col-4{
+    display: grid;
+    justify-content: space-between;
+    justify-items: stretch;
+    align-content: center;
+
+}
+
+a .btn{
+    margin: 25px;
+}

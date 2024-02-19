@@ -1,9 +1,7 @@
 body{
     background-color: black;
-    font-family: "Montserrat", sans-serif;
     max-height: 100%;
 }
-
 nav{
     background-color:#3587A4;
     justify-content: center;
@@ -15,12 +13,24 @@ nav{
 }
 .navbar-brand strong{
     color: white;
+    font-size: small;
 }
 footer{
     background-color: #88CCF1;
+    height: max-content;
 }
 h5{
     font-family: "Courier Prime", monospace;
     font-size: 32px;
 }
 
+div a{
+    padding: 25px;
+}
+.container {
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+    display: flex;
+    justify-content: space-between;
+}

@@ -46,8 +46,7 @@ a:hover {
     transform: scale(1)rotate(3deg);
     transition: 0.5s;
 }
-
 .card h5:hover{
-    color: rgb(11, 105, 182);
+    color: rgb(165, 67, 190);
     transition: 0.3s;
 }

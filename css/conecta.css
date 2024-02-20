@@ -35,7 +35,7 @@ a .btn{
     margin: 25px;
 }
 .card h5:hover{
-    color:#0255ee;
+    color:rgb(165, 67, 190);
     transition: 0.5s;
     transform: scale(1,5);
 }

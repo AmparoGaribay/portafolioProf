@@ -39,6 +39,15 @@ div a{
     width: auto;
     max-width: 680px;
     padding: 0 15px;
-    display: flex;
+    display: flex; 
     justify-content:center;    
+}
+a:hover {
+    transform: scale(1)rotate(3deg);
+    transition: 0.5s;
+}
+
+.card h5:hover{
+    color: orange;
+    transition: 0.3s;
 }

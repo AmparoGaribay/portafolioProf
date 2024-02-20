@@ -34,3 +34,13 @@ div .col-4{
 a .btn{
     margin: 25px;
 }
+.card h5:hover{
+    color:#0255ee;
+    transition: 0.5s;
+    transform: scale(1,5);
+}
+.card:hover{
+    transform: scale(1,5);
+    
+}
+

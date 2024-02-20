@@ -23,8 +23,8 @@ footer{
     background-color: #88CCF1;
     height: max-content;
     width: 100%;
-    position: absolute;
-    bottom: 0;
+   /* position: absolute;
+    bottom: 0;*/
 
 }
 h5{
@@ -48,6 +48,6 @@ a:hover {
 }
 
 .card h5:hover{
-    color: orange;
+    color: rgb(11, 105, 182);
     transition: 0.3s;
 }
